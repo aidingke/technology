@@ -37,7 +37,6 @@
 		</div>
 	</div>
 </template>
-
 <script>
 import Nav from '@/components/technology/Tnav'
 export default {
